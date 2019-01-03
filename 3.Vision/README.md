@@ -1,4 +1,4 @@
-#Day0: January 3, 2019
+# Day0: January 3, 2019
 
 Today's Progress: Getting Started again with Linear Algebra, this was amazing and Andrew Ng is an amazing teacher, I have some lecture notes in the directory
 
