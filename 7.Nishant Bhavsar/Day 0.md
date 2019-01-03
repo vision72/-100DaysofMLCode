@@ -1,4 +1,5 @@
-Day O :
+Day O : January 3, 2019
+
 Not exactly started machine learning directly.
 Today completed basics of python and still long way to go to become expert.
 And today onwards will start from basics of ML 
