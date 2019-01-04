@@ -1,6 +1,9 @@
 Day 1 : 4 January 2019
 
-Progress : 1.Completed week 1 of course - algorithm design and analysis (UPENN,edx).
+Progress : 
+           
+           1.Completed week 1 of course - algorithm design and analysis (UPENN,edx).
+
            2.Started unit 1 of Science of uncertainity (MIT,edx).
 
 Takeaway :
