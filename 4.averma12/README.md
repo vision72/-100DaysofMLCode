@@ -16,4 +16,9 @@ in my own repo github.com/averma12
    https://blog.paperspace.com/data-augmentation-for-bounding-boxes/
    https://stackoverflow.com/questions/49659236/rotating-keypoints-numpy-array
    
-   
+   # Day 3
+      Built on day 2 of Data Augmentation techniques.
+      Read on histogram equalization,mormalization,Gaussian blurring.
+      Found out limitations of techniques I can apply on current project.
+      Onwards to day 4 , defining model, data loader.
+      https://github.com/averma12/Beginning_Data_Science/blob/master/View%20Image%20and%20Transforms.ipynb
