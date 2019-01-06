@@ -1,4 +1,4 @@
-Day O : January 3, 2019
+<strong>Day O : January 3, 2019</strong>
 
 Not exactly started machine learning directly.
 Today completed basics of python and still long way to go to become expert.
@@ -12,7 +12,7 @@ Youtube :- https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-
 
 
 
-Day 1, 2 & 3: January 4-6, 2019
+<strong>Day 1, 2 & 3: January 4-6, 2019</strong>
 
 Completed Python Course from Kaggle. And tried some examples.
 As of now learned python not advance level but got some ideas about it and still continue to learn python.
