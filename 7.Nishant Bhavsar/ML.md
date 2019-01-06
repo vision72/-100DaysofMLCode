@@ -8,3 +8,12 @@ All the best buddies.
 
 Website:- https://pythonprogramming.net/introduction-to-python-programming/
 Youtube :- https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+
+
+
+Day 1, 2 & 3: January 4-6, 2019
+
+Completed Python Course from Kaggle. And tried some examples.
+As of now learned python not advance level but got some ideas about it and still continue to learn python.
+Now next phase is maths and actual examples of machine learning and deep learning.
