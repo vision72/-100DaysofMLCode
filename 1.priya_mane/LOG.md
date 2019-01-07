@@ -1,4 +1,4 @@
-Day 0 : 3 January 2019
+#Day 0 : 3 January 2019
 
 Today's progress: Cited courses to get basics right for ML.
                   1. Introduction to probability-Science of uncertainity (https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
@@ -7,7 +7,7 @@ Today's progress: Cited courses to get basics right for ML.
                   
 Takeaway : Both courses are interesting and looking forward to complete them succesfully.         
 
-Day 1 : 4 January 2019
+#Day 1 : 4 January 2019
 
 Progress : 
            
@@ -22,7 +22,7 @@ Takeaway :
            
            Unit 1 of the course Science of uncertainity was also basic probability (12th grade).
            
-Day 2 : 5 January 2018
+#Day 2 : 5 January 2019
 
 Progress : Tried to execute codes from week 1 of algorithms design and analysis.
 
@@ -30,3 +30,11 @@ Progress : Tried to execute codes from week 1 of algorithms design and analysis.
        
        Repository : https://github.com/priyamane/Basic-algorithms
 Takeaway : Learnt execution of basic algorithms.
+
+#Day 3 : 6 January 2019
+
+Progress : Completed unit 3 (counting) of course Science of uncertainity.
+
+Takeway : Solved some problems on counting (Revision).
+
+#Day 4 : 7 January 2019
