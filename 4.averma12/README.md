@@ -22,3 +22,7 @@ in my own repo github.com/averma12
       Found out limitations of techniques I can apply on current project.
       Onwards to day 4 , defining model, data loader.
       https://github.com/averma12/Beginning_Data_Science/blob/master/View%20Image%20and%20Transforms.ipynb
+      
+  # Day 4
+     Introduction to datasets and dataloaders in pytorch. Combining them with transforms.
+     Also introduced to databunch in fast.ai. Will look more into it tomorrow
