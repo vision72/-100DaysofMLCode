@@ -26,3 +26,12 @@ in my own repo github.com/averma12
   # Day 4
      Introduction to datasets and dataloaders in pytorch. Combining them with transforms.
      Also introduced to databunch in fast.ai. Will look more into it tomorrow
+
+# Day 5
+    Read about dataloaders and datasets . Read about fast.ai databunch which is a combination of a dataloader and transforms for passing onto the model. Implementing a MNIST example using a Resblock and the databunch API. To use that later for facial keypoints project
+    
+    Key Points
+    DataLoaders.
+    Class Objects and class methods.
+    Using on MNIST example.
+    Code to follow soon
