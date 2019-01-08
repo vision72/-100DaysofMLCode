@@ -22,7 +22,7 @@ Links: https://colab.research.google.com/drive/19p5EB2EZps_ifWYCV7nvtwAIQ0JyJp5e
 
 Today's Progress: Created a Simple Neural Network, nothing much.
 
-Thoughts: Took some time understanding the concepts.
+Thoughts: Took some time understanding the concepts.(same as mnistdigit)
 
 Resources: 3. Vision/Understanding(---->Tensorflow)/Classification.ipynb                                                                              3. Vision/Understanding(---->Tensorflow)/Classification.py
 
