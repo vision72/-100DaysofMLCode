@@ -4,7 +4,7 @@ Today's Progress: Getting Started again with Linear Algebra, this was amazing an
 
 Thoughts: It was amazing, every concept was really matching with how dataset will be and it was a great experience working every operation out in Python/R/Octave.
 
-Resources: 3.Vision/lecture3.pdf                                                                                                             
+Resources: 3.Vision/Linear_Algebra/lecture3.pdf                                                                                                             
 Course Link: https://www.coursera.org/learn/machine-learning/lecture/38jIT/matrices-and-vectors
 
 # Day1: January 4, 2019 (Mnist DigitRecognition)
