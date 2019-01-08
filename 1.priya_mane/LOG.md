@@ -38,3 +38,15 @@ Progress : Completed unit 3 (counting) of course Science of uncertainity.
 Takeway : Solved some problems on counting (Revision).
 
 # Day 4 : 7 January 2019
+
+Progress : Started learning week 2 of Algorithms and design.
+           Learnt about dynamic programming.
+
+Takeaway : It (Dynamic Programming) is a little different to think of, need more self study to get the concept.
+           
+# Day 5 : 8 Januaray 2019
+
+Progress : Saw some problems on dynamic programming.
+           Learnt about Greedy Alogrithms
+
+Takeaway : Need to see more examples on greedy algorithms  to understand them better but they seem more interesting than dynamic                    programming.  
