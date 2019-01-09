@@ -35,3 +35,12 @@ in my own repo github.com/averma12
     Class Objects and class methods.
     Using on MNIST example.
     Code to follow soon
+    
+# Day 6
+  https://github.com/averma12/Deep-Learning/blob/master/MNIST_ResBlocks.ipynb
+  Code completed.
+  
+  # Day 7
+     Travelling Rest Day
+     
+    
