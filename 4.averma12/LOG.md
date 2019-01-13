@@ -42,5 +42,16 @@ in my own repo github.com/averma12
   
   # Day 7
      Travelling Rest Day
+
+
+# Day 8,9 (10-11 Jan)
+  Travelling so no progress
+
+
+# Day 10
+ Completed Type hinting in Python.
+ https://github.com/averma12/Beginning_Data_Science/blob/master/Type%20Hinting%20in%20Python.ipynb
+ 
+
      
     
