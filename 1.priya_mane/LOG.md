@@ -40,6 +40,7 @@ Takeway : Solved some problems on counting (Revision).
 # Day 4 : 7 January 2019
 
 Progress : Started learning week 2 of Algorithms and design.
+
            Learnt about dynamic programming.
 
 Takeaway : It (Dynamic Programming) is a little different to think of, need more self study to get the concept.
@@ -47,6 +48,15 @@ Takeaway : It (Dynamic Programming) is a little different to think of, need more
 # Day 5 : 8 Januaray 2019
 
 Progress : Saw some problems on dynamic programming.
+
            Learnt about Greedy Alogrithms
 
 Takeaway : Need to see more examples on greedy algorithms  to understand them better but they seem more interesting than dynamic                    programming.  
+
+# Day 6 : 14 January 2019
+
+Progress : Learnt about Dynamic programming.
+           
+           Learnt about discrete random variables
+
+Takeaway : Want to explore more on Dynamic programming .
