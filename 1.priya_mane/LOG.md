@@ -60,3 +60,5 @@ Progress : Learnt about Dynamic programming.
            Learnt about discrete random variables
 
 Takeaway : Want to explore more on Dynamic programming .
+
+Reference for dynamic programming : CS Dojo (Youtube) : https://www.youtube.com/watch?v=vYquumk4nWw
