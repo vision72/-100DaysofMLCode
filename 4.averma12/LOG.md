@@ -52,6 +52,10 @@ in my own repo github.com/averma12
  Completed Type hinting in Python.
  https://github.com/averma12/Beginning_Data_Science/blob/master/Type%20Hinting%20in%20Python.ipynb
  
+ 
+ # Day 11
+ Generators and Iterators in Pyhton. Building blocks of dataloaders and datasets. Completed iterator class implementation. Doing generators now.
+ 
 
      
     
