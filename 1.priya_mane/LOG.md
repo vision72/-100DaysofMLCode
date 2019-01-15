@@ -62,3 +62,9 @@ Progress : Learnt about Dynamic programming.
 Takeaway : Want to explore more on Dynamic programming .
 
 Reference for dynamic programming : CS Dojo (Youtube) : https://www.youtube.com/watch?v=vYquumk4nWw
+
+# Day 7 : 15 January 2019
+
+Progress : Completed week 2 of algorithms and design.
+
+Takeaway  : Learnt about Huffman coding(prefix codes),knapsack problem.
