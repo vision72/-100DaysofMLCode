@@ -56,6 +56,10 @@ in my own repo github.com/averma12
  # Day 11
  Generators and Iterators in Pyhton. Building blocks of dataloaders and datasets. Completed iterator class implementation. Doing generators now.
  
+ # Day 12
+Generators. Data processing with pandas revision.
+Signed up to be School of AI dean . Hope for the best
+ 
 
      
     
