@@ -59,6 +59,15 @@ in my own repo github.com/averma12
  # Day 12
 Generators. Data processing with pandas revision.
 Signed up to be School of AI dean . Hope for the best
+
+# Day 13
+Rest
+
+# Day 14
+  Bayes Theorem. Bayesian classification to classify documents based on tags
+  https://towardsdatascience.com/tagging-documents-based-on-important-words-92bee9baa310
+  
+  
  
 
      
