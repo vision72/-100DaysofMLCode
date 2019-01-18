@@ -68,3 +68,21 @@ Reference for dynamic programming : CS Dojo (Youtube) : https://www.youtube.com/
 Progress : Completed week 2 of algorithms and design.
 
 Takeaway  : Learnt about Huffman coding(prefix codes),knapsack problem.
+
+# Day 8 : 16 January 2019
+
+Progress : Started week 3 (Graph algorithms) of algorithms analysis and design.
+
+Takeaway : Basic DFS, some applications of DFS are very interesting(image segmentation). 
+
+# Day 9 : 17 January 2019
+
+Progress : Binomial Random variables, Geometric Random variables,Expectation of R.V and few examples.
+
+Takeaway : --
+
+# Day 10 : 18 January 2019
+
+Progress : 
+
+Takeaway : 
