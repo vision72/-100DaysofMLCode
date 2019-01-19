@@ -89,6 +89,13 @@ Takeaway : --
 
 # Day 11 : 19 January 2019
 
-Progress : Learnt Minimum spanning tree , Prim's Algorithm and Kruskal's Algorithm.
+Progress : Learnt Minimum spanning tree , Prim's Algorithm and Kruskal's Algorithm -with this completed week 3 for algorithms course.
 
 Takeaway : Both algorithms were difficult to prove and understand, execution is still unclear .
+
+# Day 12 : 20 January 2019
+
+Progress : 
+
+Takeaway : 
+
