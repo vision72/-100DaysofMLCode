@@ -83,6 +83,12 @@ Takeaway : --
 
 # Day 10 : 18 January 2019
 
-Progress : 
+Progress : Learnt details of BFS and DFS .
 
-Takeaway : 
+Takeaway : --
+
+# Day 11 : 19 January 2019
+
+Progress : Learnt Minimum spanning tree , Prim's Algorithm and Kruskal's Algorithm.
+
+Takeaway : Both algorithms were difficult to prove and understand, execution is still unclear .
