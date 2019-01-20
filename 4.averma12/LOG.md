@@ -68,6 +68,12 @@ Rest
   https://towardsdatascience.com/tagging-documents-based-on-important-words-92bee9baa310
   
   
+  
+  
+  # Day 15
+  NLP nanodegree udacity regex , beautifulsoup and text normalization
+  
+  
  
 
      
