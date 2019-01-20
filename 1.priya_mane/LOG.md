@@ -95,7 +95,7 @@ Takeaway : Both algorithms were difficult to prove and understand, execution is 
 
 # Day 12 : 20 January 2019
 
-Progress : 
+Progress : Started course (https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+2T2017/course/),completed week 1 - started with            week 2
 
-Takeaway : 
+Takeaway : Learnt basic definitions (types of agent,environment)
 
