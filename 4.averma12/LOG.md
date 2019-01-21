@@ -73,6 +73,13 @@ Rest
   # Day 15
   NLP nanodegree udacity regex , beautifulsoup and text normalization
   
+  # Day 16
+  Learnt about bayes theorem.
+  Extended bayes theorem in the naive bayes algorithm.
+  Applied naive bayes from scratch on a sample problem and then using sklearn
+  https://github.com/averma12/Deep-Learning/tree/master/Machine_Learning_algorithms_scratch/Naive%20Bayes
+  
+  
   
  
 
