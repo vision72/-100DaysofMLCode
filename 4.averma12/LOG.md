@@ -79,6 +79,11 @@ Rest
   Applied naive bayes from scratch on a sample problem and then using sklearn
   https://github.com/averma12/Deep-Learning/tree/master/Machine_Learning_algorithms_scratch/Naive%20Bayes
   
+  # Day 17
+   Read about Hidden Markov Models
+   Viterbi algorithm
+   Intro to dynamic programming
+   
   
   
  
