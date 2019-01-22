@@ -99,3 +99,20 @@ Progress : Started course (https://courses.edx.org/courses/course-v1:ColumbiaX+C
 
 Takeaway : Learnt basic definitions (types of agent,environment)
 
+# Day 13 : 21 January 2019
+
+Progress : Learnt elementay properties of expectation,expected value rule for calculating expectation of y as function of x, Linearity of expectations.
+
+Takeaway : --
+
+# Day 14 : 22 January 2019
+
+Progress : Learnt about types of agent, Agent's organization, Problem formulation (search problems).
+
+Takeaway : problem  formulation for 8 queen problem,8 puzzle problem,maze,etc problems was discussed.
+
+# Day 15 : 23 January 2019
+
+Progress : 
+
+Takeaway : 
