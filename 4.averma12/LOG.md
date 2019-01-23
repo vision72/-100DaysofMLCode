@@ -84,6 +84,14 @@ Rest
    Viterbi algorithm
    Intro to dynamic programming
    
+   
+   # Day 18
+   Read in detail about Viterbi algorithm
+   Used it on an example
+   Cached recursion in dynamic programming
+   Itertools library in python
+   Used new dunder method to create singleton in pyhton
+   
   
   
  
