@@ -92,6 +92,9 @@ Rest
    Itertools library in python
    Used new dunder method to create singleton in pyhton
    
+   # Day 19
+Reviewed word2vec and word embeddings .
+need to do more work on this and finsih markov model project
   
   
  
