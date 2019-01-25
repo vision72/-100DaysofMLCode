@@ -95,6 +95,12 @@ Rest
    # Day 19
 Reviewed word2vec and word embeddings .
 need to do more work on this and finsih markov model project
+
+# Day 20
+Reviewed word embeddings and algorithms of word2vec
+Formulated idea for finishing in next couple of days.
+No progress made on Markov model
+Need to definitely make progress tomorrow
   
   
  
