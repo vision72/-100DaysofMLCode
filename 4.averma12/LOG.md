@@ -16,14 +16,14 @@ in my own repo github.com/averma12
    https://blog.paperspace.com/data-augmentation-for-bounding-boxes/
    https://stackoverflow.com/questions/49659236/rotating-keypoints-numpy-array
    
-   # Day 3
+# Day 3
       Built on day 2 of Data Augmentation techniques.
       Read on histogram equalization,mormalization,Gaussian blurring.
       Found out limitations of techniques I can apply on current project.
       Onwards to day 4 , defining model, data loader.
       https://github.com/averma12/Beginning_Data_Science/blob/master/View%20Image%20and%20Transforms.ipynb
       
-  # Day 4
+# Day 4
      Introduction to datasets and dataloaders in pytorch. Combining them with transforms.
      Also introduced to databunch in fast.ai. Will look more into it tomorrow
 
@@ -40,7 +40,7 @@ in my own repo github.com/averma12
   https://github.com/averma12/Deep-Learning/blob/master/MNIST_ResBlocks.ipynb
   Code completed.
   
-  # Day 7
+# Day 7
      Travelling Rest Day
 
 
@@ -53,10 +53,10 @@ in my own repo github.com/averma12
  https://github.com/averma12/Beginning_Data_Science/blob/master/Type%20Hinting%20in%20Python.ipynb
  
  
- # Day 11
+# Day 11
  Generators and Iterators in Pyhton. Building blocks of dataloaders and datasets. Completed iterator class implementation. Doing generators now.
  
- # Day 12
+# Day 12
 Generators. Data processing with pandas revision.
 Signed up to be School of AI dean . Hope for the best
 
@@ -70,29 +70,29 @@ Rest
   
   
   
-  # Day 15
+# Day 15
   NLP nanodegree udacity regex , beautifulsoup and text normalization
   
-  # Day 16
+# Day 16
   Learnt about bayes theorem.
   Extended bayes theorem in the naive bayes algorithm.
   Applied naive bayes from scratch on a sample problem and then using sklearn
   https://github.com/averma12/Deep-Learning/tree/master/Machine_Learning_algorithms_scratch/Naive%20Bayes
   
-  # Day 17
+# Day 17
    Read about Hidden Markov Models
    Viterbi algorithm
    Intro to dynamic programming
    
    
-   # Day 18
+# Day 18
    Read in detail about Viterbi algorithm
    Used it on an example
    Cached recursion in dynamic programming
    Itertools library in python
    Used new dunder method to create singleton in pyhton
    
-   # Day 19
+# Day 19
 Reviewed word2vec and word embeddings .
 need to do more work on this and finsih markov model project
 
@@ -101,6 +101,12 @@ Reviewed word embeddings and algorithms of word2vec
 Formulated idea for finishing in next couple of days.
 No progress made on Markov model
 Need to definitely make progress tomorrow
+
+# Day 21
+Made headway in markov model project of udacity NLP DL
+Revised collections. 
+Made Lookup table
+
   
   
  
