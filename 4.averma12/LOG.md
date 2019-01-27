@@ -107,6 +107,11 @@ Made headway in markov model project of udacity NLP DL
 Revised collections. 
 Made Lookup table
 
+# Day 22
+Revised Word2vec algorithm with Siraj's video using GOT books
+Revised PCA.
+
+
   
   
  
