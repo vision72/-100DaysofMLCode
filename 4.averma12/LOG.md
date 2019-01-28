@@ -111,6 +111,11 @@ Made Lookup table
 Revised Word2vec algorithm with Siraj's video using GOT books
 Revised PCA.
 
+# Day 23
+Sentiment analysis with Siraj at meetup
+Discussion on future of AI and projects
+NLP nanodegree of udacity lookup table,bigrams implementation
+
 
   
   
