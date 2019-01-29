@@ -116,6 +116,11 @@ Sentiment analysis with Siraj at meetup
 Discussion on future of AI and projects
 NLP nanodegree of udacity lookup table,bigrams implementation
 
+# Day 24
+Completed HMM of NLP DL.
+Reviewed Project
+Introduction to Probabalistic Programming
+Sumbitted Project
 
   
   
