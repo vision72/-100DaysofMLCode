@@ -122,6 +122,10 @@ Reviewed Project
 Introduction to Probabalistic Programming
 Sumbitted Project
 
+# Day 25
+Slow day. Clarified misconceptions on zip function and iterators and generators
+Started storytelling with data for data visualization
+
   
   
  
