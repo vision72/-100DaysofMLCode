@@ -126,6 +126,14 @@ Sumbitted Project
 Slow day. Clarified misconceptions on zip function and iterators and generators
 Started storytelling with data for data visualization
 
+# Day 26
+Data visualization fundamentals
+Different data types used in visualization
+Different Libraries
+Different types of data
+D3.js basics
+How to import kaggle data into Google Colab
+
   
   
  
