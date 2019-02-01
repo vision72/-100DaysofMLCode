@@ -134,6 +134,14 @@ Different types of data
 D3.js basics
 How to import kaggle data into Google Colab
 
+# Day 27
+Data visualization with D3.js
+EDA on NYC taxi fare with Google colab
+Loaded 55 million rows
+Read about dask
+Next onto applying the RF algorithm
+
+
   
   
  
