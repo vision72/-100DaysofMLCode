@@ -141,6 +141,12 @@ Loaded 55 million rows
 Read about dask
 Next onto applying the RF algorithm
 
+# Day 28
+Intro to Latent Dirichlet Allocation
+Comparison with TF-IDF
+Read about dirichlet distribution
+Alpha values and beta values
+Difference between BOW and LDA matrices
 
   
   
