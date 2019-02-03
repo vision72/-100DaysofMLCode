@@ -148,6 +148,13 @@ Read about dirichlet distribution
 Alpha values and beta values
 Difference between BOW and LDA matrices
 
+# Day 29
+Revision of NLP fundamentals
+Regex
+Tokenization
+NLTK
+Spacy fundamentals
+
   
   
  
