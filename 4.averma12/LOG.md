@@ -155,6 +155,12 @@ Tokenization
 NLTK
 Spacy fundamentals
 
+# Day 30
+Continued revsion of NLP fundamentals
+Revised Matplotlib
+Algorithm of LDA
+time to make paper to code
+
   
   
  
