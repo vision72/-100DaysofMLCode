@@ -161,6 +161,12 @@ Revised Matplotlib
 Algorithm of LDA
 time to make paper to code
 
+# Day 31
+EDA of kaggle dataset using pandas and seaborn
+Completed seaborn mini course on codecademy.
+Doing LDA for kaggle dataset
+Finished parts of resume for Udacity propel
+
   
   
  
