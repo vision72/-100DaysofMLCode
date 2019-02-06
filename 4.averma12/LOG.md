@@ -167,6 +167,13 @@ Completed seaborn mini course on codecademy.
 Doing LDA for kaggle dataset
 Finished parts of resume for Udacity propel
 
+# Day 32
+Finished implementation of Kaggle Project using LDA
+Resutls need reviewing
+Also algorithm took too long to execute from scratch
+Reviesed NMF algorithm
+Look to implement same using NMF
+
   
   
  
