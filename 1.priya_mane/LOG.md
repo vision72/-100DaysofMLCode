@@ -113,6 +113,71 @@ Takeaway : problem  formulation for 8 queen problem,8 puzzle problem,maze,etc pr
 
 # Day 15 : 23 January 2019
 
-Progress : 
+Progress : Shortest Path problem (Dijkstra's Algorithm)
 
-Takeaway : 
+Takeaway :--
+
+# Day 16 : 24 January 2019
+
+Progress : Search Agents (BFS and DFS)-AIMA
+
+Takeaway : --
+
+# Day 17 : 25 January 2019
+
+Progress : Depth Limited Search, Iterative deepening Search algorithms.
+
+Takeaway : --
+
+# Day 18 : 26 January 2019
+
+Progress : All Pairs Shortest Path algorithm. P/NP classes(introduction)
+
+Takeaway : --
+
+# Day 19 : 27 January 2019
+
+Progress : Reductions, poly-time reduction.
+
+Takeaway : --
+
+# Day 20 : 28 January 2019
+
+Progress : NP Completeness, Satisfiability,NUS. Completed Algorithms Course
+
+Takeaway : --
+
+# Day 21 : 29 January 2019
+
+Progress : Started Andrew Ng's Course on Coursera.
+
+Takeaway : Cost Functions.
+
+# Day 22 : 30 January 2019
+
+Progress : Andrew Ng's Course
+
+Takeaway : Linear ALgebra Revision.
+
+# Day 23 : 31 January 2019
+
+Progress : Univariant and Multivariant linear regression.
+
+Takeaway : --
+
+# Day 24 : 1 February 2019
+
+Progress : Gradient Descent.
+
+Takeaway : --
+
+
+
+
+
+
+
+
+
+
+
