@@ -174,6 +174,14 @@ Also algorithm took too long to execute from scratch
 Reviesed NMF algorithm
 Look to implement same using NMF
 
+# Day 33
+Travelled for Job interviews.
+Revised LDA,NMF for job interviews
+Applied to be mentor for udacity (Pending video recording)
+Revised Batch Norm
+Revised Resnets
+
+
   
   
  
