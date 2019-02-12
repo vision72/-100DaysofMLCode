@@ -181,6 +181,14 @@ Applied to be mentor for udacity (Pending video recording)
 Revised Batch Norm
 Revised Resnets
 
+# Day 34
+Introduction to RNN
+RNN forward prop
+RNN Back propagation through time
+RNN  Keras API
+RNN on toy example
+
+
 
   
   
