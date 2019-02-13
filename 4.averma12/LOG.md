@@ -188,6 +188,12 @@ RNN Back propagation through time
 RNN  Keras API
 RNN on toy example
 
+# Day 35
+Revised RNN
+Example of Seq2Seq networks from Andrew Trasks Grokking Deep Learning with BackProp
+Theory on Embedding and Visualizing embedding
+Introduction to Homomorphism
+
 
 
   
