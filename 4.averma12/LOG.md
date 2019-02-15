@@ -194,6 +194,10 @@ Example of Seq2Seq networks from Andrew Trasks Grokking Deep Learning with BackP
 Theory on Embedding and Visualizing embedding
 Introduction to Homomorphism
 
+# Day 36
+Encoder decoder backprop revise
+Attention introduction
+DS India meetup Image augmentation
 
 
   
