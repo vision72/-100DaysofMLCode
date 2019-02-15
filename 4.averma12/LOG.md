@@ -199,6 +199,14 @@ Encoder decoder backprop revise
 Attention introduction
 DS India meetup Image augmentation
 
+# Day 37
+Not much with respect to deep learning
+Deep Learning Book chapter 2 Linear Algebra chapter
+Prepared notes.
+Preparing jupyter notebooks
+https://hadrienj.github.io/deep-learning-book-series-home/
+Started StoryTelling with data by Cole Nussbaummer Knafflic
+
 
   
   
