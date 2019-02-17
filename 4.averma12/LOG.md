@@ -207,6 +207,9 @@ Preparing jupyter notebooks
 https://hadrienj.github.io/deep-learning-book-series-home/
 Started StoryTelling with data by Cole Nussbaummer Knafflic
 
+# Day 38
+Rest day
+
 
   
   
