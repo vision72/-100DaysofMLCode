@@ -211,6 +211,10 @@ Started StoryTelling with data by Cole Nussbaummer Knafflic
 Rest day
 
 
+# Day 39
+Finished Linear Algebra chapter completely
+Derived svd and PCA from scratch
+
   
   
  
