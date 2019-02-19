@@ -215,6 +215,13 @@ Rest day
 Finished Linear Algebra chapter completely
 Derived svd and PCA from scratch
 
+# Day 40
+Randomized SVD from scratch
+Limitations of NMF.
+Seq2Seq revision
+Introduction to attention mechanism
+Need to revise LSTMs again.
+Need to see how LR finder can be applied.
   
   
  
