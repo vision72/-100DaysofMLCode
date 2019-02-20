@@ -222,6 +222,13 @@ Seq2Seq revision
 Introduction to attention mechanism
 Need to revise LSTMs again.
 Need to see how LR finder can be applied.
+
+# Day 41
+Attention mechanism
+Multiplicative attention and Bahdanau Attention basics
+Implemented a toy example on Multiplicative attention
+Learning about 1-cycle policy
+Started Machine translation project of udacity NLP ND
   
   
  
