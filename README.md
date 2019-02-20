@@ -5,6 +5,6 @@ Helping grow each other.
 As well let's do a shout out to the world using social media as a medium (Twitter, Facebook, ...).
 Let's head on to #100DaysOfMLCode.
 # Primary Task(s): 
-Push some content for Day THREE / FOUR.
+Keep Pushing content regardless of how small it is and don't be afraid to ask for help
 
 
