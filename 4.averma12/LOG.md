@@ -229,6 +229,9 @@ Multiplicative attention and Bahdanau Attention basics
 Implemented a toy example on Multiplicative attention
 Learning about 1-cycle policy
 Started Machine translation project of udacity NLP ND
+
+# Day 42
+Learnt the inner workings of nn frameworks by building a toy framework.
   
   
  
