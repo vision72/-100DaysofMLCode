@@ -232,7 +232,12 @@ Started Machine translation project of udacity NLP ND
 
 # Day 42
 Learnt the inner workings of nn frameworks by building a toy framework.
-  
+
+# Day 43
+Learnt how to create and forward propagate word embeddings for RNN
+And how to define Sigmoid and Tanh layers for RNN and LSTM.
+Swift India meetup
+Learnt about protocols and generics
   
  
 
