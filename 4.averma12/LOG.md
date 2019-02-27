@@ -238,6 +238,13 @@ Learnt how to create and forward propagate word embeddings for RNN
 And how to define Sigmoid and Tanh layers for RNN and LSTM.
 Swift India meetup
 Learnt about protocols and generics
+
+# Day 44-45
+Learnt about inner workings of RNN and LSTM
+Learnt about the steps used in a framework to train a model
+Trained vanilla LSTM using keras for practice
+Training with ensemble learning and CLR using keras.
+Will apply to seq2seq with attention for udacity project
   
  
 
