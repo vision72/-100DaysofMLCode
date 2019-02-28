@@ -245,6 +245,11 @@ Learnt about the steps used in a framework to train a model
 Trained vanilla LSTM using keras for practice
 Training with ensemble learning and CLR using keras.
 Will apply to seq2seq with attention for udacity project
+
+# Day 46
+Encoder-Decoder architecture in keras using Keras functional APO
+Learnt how to implement CLR and SGDR and cosine annealing in Keras
+Completed 20% of udacity NLP nd project 2
   
  
 
