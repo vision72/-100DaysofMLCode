@@ -256,6 +256,10 @@ Completed 20% of udacity NLP nd project 2
 # Day 47
 Completed theory of seq2seq
 Started probability from deep learning book
+
+# Day 48
+Probability chapter and lessons from udacity
+
   
   
   
