@@ -260,6 +260,9 @@ Started probability from deep learning book
 # Day 48
 Probability chapter and lessons from udacity
 
+# Day 49
+Statistics , Binomial Distributions
+Linear Regression
   
   
   
