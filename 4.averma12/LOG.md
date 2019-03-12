@@ -263,6 +263,12 @@ Probability chapter and lessons from udacity
 # Day 49
 Statistics , Binomial Distributions
 Linear Regression
+
+# Day 50
+Correlation,Covariance
+PCA,
+Regression
+Lasso Rigression,Ridge Regression,Linear Regression
   
   
   
