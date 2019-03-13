@@ -269,6 +269,9 @@ Correlation,Covariance
 PCA,
 Regression
 Lasso Rigression,Ridge Regression,Linear Regression
+
+# Day 51
+Concurrency,Parallelism,Multi-Threading
   
   
   
