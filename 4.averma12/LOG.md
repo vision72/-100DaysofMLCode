@@ -272,6 +272,11 @@ Lasso Rigression,Ridge Regression,Linear Regression
 
 # Day 51
 Concurrency,Parallelism,Multi-Threading
+
+# Day 52
+Started projects Hinglish2vec and Thrones2vec
+Python Exceptions
+Started Learning Alexa skills
   
   
   
