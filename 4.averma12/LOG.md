@@ -277,6 +277,11 @@ Concurrency,Parallelism,Multi-Threading
 Started projects Hinglish2vec and Thrones2vec
 Python Exceptions
 Started Learning Alexa skills
+
+# Day 53
+Finally figured out seq2seq equation.
+Also learned a lot about normal and poisson distributions.
+Need to write more code before eod. Slow day.
   
   
   
