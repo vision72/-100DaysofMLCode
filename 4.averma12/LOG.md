@@ -282,6 +282,11 @@ Started Learning Alexa skills
 Finally figured out seq2seq equation.
 Also learned a lot about normal and poisson distributions.
 Need to write more code before eod. Slow day.
+
+# Day 54
+Finished seq2seq udacity nlpnd project
+Added attention_decoder based on keras implementation
+TwiML meetup on RNNs
   
   
   
