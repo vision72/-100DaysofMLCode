@@ -287,6 +287,10 @@ Need to write more code before eod. Slow day.
 Finished seq2seq udacity nlpnd project
 Added attention_decoder based on keras implementation
 TwiML meetup on RNNs
+
+# Day 55
+C++ basics
+Storytelling with data
   
   
   
