@@ -292,6 +292,13 @@ TwiML meetup on RNNs
 C++ basics
 Storytelling with data
   
+# Day 56-57
+fast.ai v2 lesson 1( Actually 8)
+Learnt about building a CNN from scratch and the internal pytorch functions
+Learnt about deficiencies of DNN frameworks and why a language like Swift will help solve it
+Cpp vectors
+Discrete math basics
+StoryTelling with data
   
   
  
