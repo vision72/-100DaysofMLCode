@@ -299,6 +299,9 @@ Learnt about deficiencies of DNN frameworks and why a language like Swift will h
 Cpp vectors
 Discrete math basics
 StoryTelling with data
+
+# Day 58
+Created Alexa space facts
   
   
  
