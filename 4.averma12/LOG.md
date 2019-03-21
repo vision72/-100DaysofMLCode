@@ -302,6 +302,13 @@ StoryTelling with data
 
 # Day 58
 Created Alexa space facts
+
+# Day 59
+Slow day
+Convolution math, transposed convolution
+Spent day on fast.ai forums
+Tried applying for jobs didn''t work
+Happy holi
   
   
  
