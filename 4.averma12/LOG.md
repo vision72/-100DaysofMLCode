@@ -309,6 +309,9 @@ Convolution math, transposed convolution
 Spent day on fast.ai forums
 Tried applying for jobs didn''t work
 Happy holi
+
+# Day 60
+Some revision on RF
   
   
  
