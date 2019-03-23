@@ -312,6 +312,10 @@ Happy holi
 
 # Day 60
 Some revision on RF
+
+# Day 61
+DS India meetup on Collaborative Filtering using Fast.ai library
+TwiML meetup on fast.ai v2 lesson8 and mini presentations on seq2seq and parallel processing
   
   
  
