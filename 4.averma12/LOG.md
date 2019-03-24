@@ -316,6 +316,13 @@ Some revision on RF
 # Day 61
 DS India meetup on Collaborative Filtering using Fast.ai library
 TwiML meetup on fast.ai v2 lesson8 and mini presentations on seq2seq and parallel processing
+
+# Day 62
+ASR pipeline
+Fourier Transforms
+MFCC - Mel Frequency Cepstral Coefficients
+Why log
+Basic coding in numpy
   
   
  
