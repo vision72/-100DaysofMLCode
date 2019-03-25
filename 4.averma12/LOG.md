@@ -323,6 +323,11 @@ Fourier Transforms
 MFCC - Mel Frequency Cepstral Coefficients
 Why log
 Basic coding in numpy
+
+# Day 63
+Fast.ai lesson 1 from scratch
+Matrix multiplication and Linear layer from scratch
+Kaiming initialization and Xavier initialization
   
   
  
