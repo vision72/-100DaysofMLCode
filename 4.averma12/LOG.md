@@ -328,6 +328,13 @@ Basic coding in numpy
 Fast.ai lesson 1 from scratch
 Matrix multiplication and Linear layer from scratch
 Kaiming initialization and Xavier initialization
+
+# Day 64
+Fast.ai Lesson 9 !st part complete
+Why Kaiming normal, Why initialization.
+Why scaling is necessary.
+Revision of Fully Connected layer
+Now onto Training Loop and Learner class
   
   
  
