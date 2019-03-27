@@ -335,6 +335,15 @@ Why Kaiming normal, Why initialization.
 Why scaling is necessary.
 Revision of Fully Connected layer
 Now onto Training Loop and Learner class
+
+# Day 65
+Create a NN with training loop and mini-batches in Pytorch using only tensor apis
+Then slowly refactor the code using nn.module, torch.optim, and data set and data loader
+Python magic method setattr and repr.
+negative log likelihood with softmax = cross_entropy
+Integer array indexing
+Pytorch nn.module deep dive with add_modules,parameters and nn.sequential
+torch.optimizer
   
   
  
