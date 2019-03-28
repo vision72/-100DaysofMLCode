@@ -344,6 +344,16 @@ negative log likelihood with softmax = cross_entropy
 Integer array indexing
 Pytorch nn.module deep dive with add_modules,parameters and nn.sequential
 torch.optimizer
+
+# Day 66
+Revision of lambda functions
+Scopes
+Closures
+Decorators
+Callbacks
+Intro - Standard training loop vs fast.ai training loop
+A standard abstract class which is inerited by callback implementors
+Databunch + Learner
   
   
  
