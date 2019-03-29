@@ -354,6 +354,12 @@ Callbacks
 Intro - Standard training loop vs fast.ai training loop
 A standard abstract class which is inerited by callback implementors
 Databunch + Learner
+
+# Day 67
+Factory method design pattern
+Exploring  Its use in fast.ai callbacks
+Callback class using factory methods
+Modify training loop accordingly
   
   
  
