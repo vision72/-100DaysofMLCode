@@ -360,6 +360,15 @@ Factory method design pattern
 Exploring  Its use in fast.ai callbacks
 Callback class using factory methods
 Modify training loop accordingly
+
+# Day 68
+Ran fit on Mnist after understanding entire training cycle . Kinda revision.
+Added Databunch and Combined loss_func,dataloader,accuracy,optimizer into Learner class
+Now onto implementing callbacks
+Callbacks implemented
+Callbacks modified with Runner class.
+Now onto Annealing notebook
+Meetup of TwiML
   
   
  
