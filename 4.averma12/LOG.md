@@ -369,6 +369,12 @@ Callbacks implemented
 Callbacks modified with Runner class.
 Now onto Annealing notebook
 Meetup of TwiML
+
+# Day 69
+Udacity NLP nd
+Speech to text project - Using a sonic visualizer
+Use of HMM and Cross entropy with N-Grams as a language model to translate speech to text
+Started learning MongoDB
   
   
  
