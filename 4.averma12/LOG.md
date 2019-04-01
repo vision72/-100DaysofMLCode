@@ -375,6 +375,12 @@ Udacity NLP nd
 Speech to text project - Using a sonic visualizer
 Use of HMM and Cross entropy with N-Grams as a language model to translate speech to text
 Started learning MongoDB
+
+# Day 70
+Applied for another job.
+Pickling and unpickling
+Udacity NLPnd final project completed 50%
+used setattr to copy object in factory pattern
   
   
  
