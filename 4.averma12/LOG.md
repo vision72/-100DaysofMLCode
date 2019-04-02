@@ -381,6 +381,11 @@ Applied for another job.
 Pickling and unpickling
 Udacity NLPnd final project completed 50%
 used setattr to copy object in factory pattern
+
+# Day 71
+slow day. Dataclasses and it's uses in python
+Trying to do NN using pytorch using callbacks and annealing
+Reading more on torch
   
   
  
