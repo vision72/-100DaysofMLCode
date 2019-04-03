@@ -386,6 +386,11 @@ used setattr to copy object in factory pattern
 slow day. Dataclasses and it's uses in python
 Trying to do NN using pytorch using callbacks and annealing
 Reading more on torch
+
+# Day 72
+I created my own github pages today. Still need to do a lot of work though
+Finished almost entire notebook of implementing callbacks and annealing
+Ready for lesson 10 of fast.ai tomorrow
   
   
  
