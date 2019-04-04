@@ -391,6 +391,12 @@ Reading more on torch
 I created my own github pages today. Still need to do a lot of work though
 Finished almost entire notebook of implementing callbacks and annealing
 Ready for lesson 10 of fast.ai tomorrow
+
+# Day 73
+Started Lesson 10 of fast.ai
+Revised Partials , Decorators and Callbacks.
+Learnt about Variance and it's notations.
+Created partial for class objects as well
   
   
  
