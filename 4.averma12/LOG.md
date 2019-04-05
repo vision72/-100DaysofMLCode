@@ -397,6 +397,13 @@ Started Lesson 10 of fast.ai
 Revised Partials , Decorators and Callbacks.
 Learnt about Variance and it's notations.
 Created partial for class objects as well
+
+# Day 74
+Udacity nlp nd training on cnn+rnn model for speech recognition
+also experimented with deep rnn and bidirectional rnns.
+Read about CTC.
+Fast.ai lesson 10 now
+Revised Lambdas and callbacks
   
   
  
