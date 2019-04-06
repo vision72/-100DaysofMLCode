@@ -404,6 +404,11 @@ also experimented with deep rnn and bidirectional rnns.
 Read about CTC.
 Fast.ai lesson 10 now
 Revised Lambdas and callbacks
+
+# Day 75
+Graduated Udacity NLP nd
+TwiML meetup on Fast.ai Lesson 10
+Revised Convolutional neural nets and Different layers
   
   
  
