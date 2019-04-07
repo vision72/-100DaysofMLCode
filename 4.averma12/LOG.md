@@ -409,6 +409,14 @@ Revised Lambdas and callbacks
 Graduated Udacity NLP nd
 TwiML meetup on Fast.ai Lesson 10
 Revised Convolutional neural nets and Different layers
+
+# Day 76
+Coroutines - What are coroutines,what is cooperative multitasking.
+Use of deques.
+Use of generator functions as coroutines
+Sending data using generators
+Context managers, how to create them
+What are they. Examples of context manager
   
   
  
