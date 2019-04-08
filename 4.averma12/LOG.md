@@ -417,6 +417,18 @@ Use of generator functions as coroutines
 Sending data using generators
 Context managers, how to create them
 What are they. Examples of context manager
+
+# Day 77
+Got notebook2script.py to work
+Trained a CNN on Mnist. Not that special.
+Refactored the code to get a good modular approach to a generalized CNN.
+Hooks in pytorch. Hooks are just pytorch term for callbacks.
+Get stats from various layers, initialize weights with kaiming_normal, Change loss function according to the histogram data and then train and plot to see accuracy. Ensured max amount of weights were used in training.
+Batch Normalization.
+Steps in batch normalization.
+Batch normalization as a layer with equation Ax + b
+Moving averages and exponential moving averages
+Layer normalization and group normalization and instance normalization and it uses
   
   
  
