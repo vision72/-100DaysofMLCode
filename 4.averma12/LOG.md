@@ -429,6 +429,16 @@ Steps in batch normalization.
 Batch normalization as a layer with equation Ax + b
 Moving averages and exponential moving averages
 Layer normalization and group normalization and instance normalization and it uses
+
+# Day 78
+Studying Handwritten mathematical symbols and the image2latex project.
+Inkml files and how to process them?
+Fully Convolutional Networks theory, encoder and decoder network
+Use of pretrained network in encoder.
+Sample architecture?
+Use of decoder?
+Need to review fast.ai's lesson on image segmentation
+Added Leaky Relu and one cycle LR to CNN using no cuda. Really good accuracy
   
   
  
