@@ -439,6 +439,10 @@ Sample architecture?
 Use of decoder?
 Need to review fast.ai's lesson on image segmentation
 Added Leaky Relu and one cycle LR to CNN using no cuda. Really good accuracy
+
+# Day 79
+All you need is a good init paper reading
+Unicode
   
   
  
