@@ -443,6 +443,10 @@ Added Leaky Relu and one cycle LR to CNN using no cuda. Really good accuracy
 # Day 79
 All you need is a good init paper reading
 Unicode
+
+# Day 80
+What's the difference between register buffer and register parameters
+LSUV technique on achieving zero mean and unit variance. Super cool trick
   
   
  
