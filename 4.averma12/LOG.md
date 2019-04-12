@@ -447,6 +447,12 @@ Unicode
 # Day 80
 What's the difference between register buffer and register parameters
 LSUV technique on achieving zero mean and unit variance. Super cool trick
+
+# Day 81
+Imagenette dataset. How to load different types of datasets. 
+Use of os module of python. os.walk , os.scandir to recursively list and scan directories and files to get image names
+Data modelling steps, defining Itemlist and ImageItemList which subclasses ItemList
+Transforms
   
   
  
