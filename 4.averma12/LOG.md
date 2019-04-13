@@ -453,6 +453,11 @@ Imagenette dataset. How to load different types of datasets.
 Use of os module of python. os.walk , os.scandir to recursively list and scan directories and files to get image names
 Data modelling steps, defining Itemlist and ImageItemList which subclasses ItemList
 Transforms
+
+# Day 82
+Labelling the dataset
+TwiML meetup review.
+L1 and L2 regularization
   
   
  
