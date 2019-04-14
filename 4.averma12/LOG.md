@@ -458,6 +458,10 @@ Transforms
 Labelling the dataset
 TwiML meetup review.
 L1 and L2 regularization
+
+# Day 83
+Revision of yesterday
+Meetup of School of AI
   
   
  
