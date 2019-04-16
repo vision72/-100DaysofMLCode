@@ -466,6 +466,17 @@ Meetup of School of AI
 # Day 84
 Completed the data modelling and databunch.
 Revising torch tensor operations
+
+# Day 85
+Conv Layers different conv layers used.
+Need for a 3x3 layer in first layer.
+Optimizers
+Different optimizers
+Adam optimizer.
+Use of epsilon variable
+LAMB algorithm
+Refactoring Runner and Learner
+Data Augmentation
   
   
  
