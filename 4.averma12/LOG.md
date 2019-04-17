@@ -477,6 +477,10 @@ Use of epsilon variable
 LAMB algorithm
 Refactoring Runner and Learner
 Data Augmentation
+
+# Day 86
+Functional Programming
+Applied for jobs
   
   
  
