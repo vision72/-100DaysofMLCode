@@ -481,6 +481,10 @@ Data Augmentation
 # Day 86
 Functional Programming
 Applied for jobs
+
+# Day 87
+Beta distributions used in probability and statistics
+Beta distributions used in Mixup Augmentation
   
   
  
