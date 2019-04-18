@@ -485,6 +485,9 @@ Applied for jobs
 # Day 87
 Beta distributions used in probability and statistics
 Beta distributions used in Mixup Augmentation
+use of mixup augmentation in image classification, use of beta distributions for finding different values of mixup of two images used.
+Calculating loss functions. Storing the old loss function and the reduction of the loss function, using it to calculate the new loss function and calculating the new reduction using a context manager.
+Mixup does away with the need for most data augmentation techniques
   
   
  
