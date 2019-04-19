@@ -488,6 +488,11 @@ Beta distributions used in Mixup Augmentation
 use of mixup augmentation in image classification, use of beta distributions for finding different values of mixup of two images used.
 Calculating loss functions. Storing the old loss function and the reduction of the loss function, using it to calculate the new loss function and calculating the new reduction using a context manager.
 Mixup does away with the need for most data augmentation techniques
+
+# Day 88
+Use of label smoothing for noisy data.
+LabelSmoothing Cross Entropy loss function for such cases.
+Mixed precision training. Little refresher on floating point arithmetic
   
   
  
