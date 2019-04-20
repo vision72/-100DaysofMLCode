@@ -493,6 +493,12 @@ Mixup does away with the need for most data augmentation techniques
 Use of label smoothing for noisy data.
 LabelSmoothing Cross Entropy loss function for such cases.
 Mixed precision training. Little refresher on floating point arithmetic
+
+# Day 89
+Imagenette training with different Resnet architectures
+TwiML meetup.
+Cleared up doubts on Resnets and images
+Reading - Bag of tricks, ULMFIT,AWD-LSTM
   
   
  
