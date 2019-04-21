@@ -499,6 +499,11 @@ Imagenette training with different Resnet architectures
 TwiML meetup.
 Cleared up doubts on Resnets and images
 Reading - Bag of tricks, ULMFIT,AWD-LSTM
+
+# Day 90
+Redoing Facial Keypoints dataset from udacity
+Formed Dataset and DataLoader and transforms , want to change it to using DataBlock API of fastai from scratch
+Basic image transforms using PIL
   
   
  
