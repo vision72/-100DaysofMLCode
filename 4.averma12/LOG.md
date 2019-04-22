@@ -504,6 +504,14 @@ Reading - Bag of tricks, ULMFIT,AWD-LSTM
 Redoing Facial Keypoints dataset from udacity
 Formed Dataset and DataLoader and transforms , want to change it to using DataBlock API of fastai from scratch
 Basic image transforms using PIL
+
+# Day 91
+Transfer learning using pytorch.
+Loading and saving a model.
+Refresher on torch.autograd and the torch.no_grad() context.
+Transfer learning tricks.
+Adding an extra concat layer custom to the output functions of your model
+Don't freeze batchnorm layers because batchnorm does weird things to your network
   
   
  
