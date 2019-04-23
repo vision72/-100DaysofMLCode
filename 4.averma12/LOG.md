@@ -512,6 +512,12 @@ Refresher on torch.autograd and the torch.no_grad() context.
 Transfer learning tricks.
 Adding an extra concat layer custom to the output functions of your model
 Don't freeze batchnorm layers because batchnorm does weird things to your network
+
+# Day 92
+Forming databunch on Facial Keypoints problem
+Mini Batching using bptt on LSTMS
+Revision of LSTMs
+Slow day
   
   
  
