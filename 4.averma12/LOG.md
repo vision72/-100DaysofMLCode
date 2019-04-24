@@ -518,6 +518,11 @@ Forming databunch on Facial Keypoints problem
 Mini Batching using bptt on LSTMS
 Revision of LSTMs
 Slow day
+
+# Day 93
+Introduction to swift 4 tensorflow.
+Also had a really good discussion with Unfound news founder Ankur pandey. 
+Formulated a sample approach to a recommender engine problem.
   
   
  
