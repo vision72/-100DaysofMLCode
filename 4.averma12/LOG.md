@@ -523,6 +523,11 @@ Slow day
 Introduction to swift 4 tensorflow.
 Also had a really good discussion with Unfound news founder Ankur pandey. 
 Formulated a sample approach to a recommender engine problem.
+
+# Day 94
+Swift 4 tensorflow introduction
+Installed swift 4 tensorflow on xcode.
+Fast.ai lesson 13
   
   
  
