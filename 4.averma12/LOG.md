@@ -528,6 +528,10 @@ Formulated a sample approach to a recommender engine problem.
 Swift 4 tensorflow introduction
 Installed swift 4 tensorflow on xcode.
 Fast.ai lesson 13
+
+# Day 95
+Interview with unfound
+Attention and Word Embeddings revision
   
   
  
