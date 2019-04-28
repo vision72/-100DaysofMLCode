@@ -532,6 +532,11 @@ Fast.ai lesson 13
 # Day 95
 Interview with unfound
 Attention and Word Embeddings revision
+
+# Day 96
+Got working on unfound assignments
+Swift 4 tensorflow , going a little deeper
+Revised topic modelling algorithm
   
   
  
