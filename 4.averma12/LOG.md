@@ -537,6 +537,18 @@ Attention and Word Embeddings revision
 Got working on unfound assignments
 Swift 4 tensorflow , going a little deeper
 Revised topic modelling algorithm
+
+# Day 97
+Topic modelling algorithm NMF and LDA revision
+abc-news  dataset applied tf-idf and kmeans -  kmeans took too long with tf-idf
+
+# Day 98
+Changing approach- 
+1.Naive way -  Calculate sentence embeddings - summing word embeddings of each word in a sentence
+Calculate cosine distance.
+
+
+
   
   
  
