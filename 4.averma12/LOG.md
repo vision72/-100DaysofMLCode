@@ -547,6 +547,11 @@ Changing approach-
 1.Naive way -  Calculate sentence embeddings - summing word embeddings of each word in a sentence
 Calculate cosine distance.
 
+# Day 99
+Doc2vec to calculate sentence embeddings of dataset
+Trained on abcnews-dataset
+Tested similarity using cosine similarity
+Calculated clusters using Kmeans
 
 
   
