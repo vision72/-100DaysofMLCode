@@ -553,6 +553,18 @@ Trained on abcnews-dataset
 Tested similarity using cosine similarity
 Calculated clusters using Kmeans
 
+# Day 100
+Completion of a journey
+Did more preprocessing on the problem of clustering news articles.
+Found issues with conventional tokenizing and regex.Improved results slightly.
+Elbow method to find optimal no of clusters for Kmeans
+Attention revision for  problem of article summarization.
+Revised basics of language model, different approaches to language model , and why deep learning is the way forward.
+Probability revision in terms of language model.
+Preparing the data for language modelling
+1. Random Sampling
+2. Sequential partitioning
+
 
   
   
